@@ -1,0 +1,11 @@
+#number-container {
+    display: flex
+}
+
+.number-box {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
